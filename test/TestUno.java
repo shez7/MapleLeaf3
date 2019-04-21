@@ -15,9 +15,9 @@ import uno.deal;
  *
  * @author Shez
  */
-public class NewEmptyJUnitTest {
+public class TestUno {
     
-    public NewEmptyJUnitTest() {
+    public TestUno() {
     }
     
     @BeforeClass
